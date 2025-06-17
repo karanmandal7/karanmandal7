@@ -9,7 +9,7 @@
 <ins><div align="center">A passionate Web Developer from India.</div></ins>  
   
 
-- 🌱 I’m currently learning JavaScript & React.  
+- 🌱 I’m currently learning Node.js, React.js, Express.js, MongoDB, Spring Boot.  
   
 
 - 📩 Reach me karan.b.mandal@gmail.com  
