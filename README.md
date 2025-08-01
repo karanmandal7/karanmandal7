@@ -1,78 +1,73 @@
 <div align="center">
-  <!-- Lottie Animation Embed -->
-  <iframe src="https://lottie.host/embed/5d2b4f38-d02e-4567-b812-bcf48b5a1b98/7ypb2Mcqcw.json" width="300" height="300" frameborder="0"></iframe>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </div>
 
-<h1 align="center">Hi there 👋 I'm Karan Mandal</h1>
-<h3 align="center"><i>A Full Stack Web Developer & AI Explorer from India</i></h3>
+<h1 align="center">Hey 👋 I'm Karan Mandal</h1>
+<h3 align="center"><i>Full Stack Developer | AI Explorer | Problem Solver</i></h3>
+
+<div align="center">
+  <img src="https://i.gifer.com/1amw.gif" alt="developer animation" width="500"/>
+</div>
 
 ---
 
-🔧 I love building web apps, solving real-world problems, and exploring the boundaries of technology — from the MERN stack to AI-driven solutions.  
-🚀 Currently diving deeper into **Node.js**, **Spring Boot**, and powerful **AI tools** like ChatGPT, Claude, and Cursor AI.  
-📫 Reach me anytime at: **karan.b.mandal@gmail.com**  
-😄 Fun fact: I debug like Sherlock Holmes — with a dark theme.
+### 🌟 About Me
+
+- 🔭 I’m passionate about building full-stack applications and AI-powered tools that solve real problems.
+- 👨‍🎓 B.Tech in Computer Science with 8.58 GPA.
+- 💡 Projects I’ve built include a Heart Disease Prediction AI system, real-time chat apps, and job board platforms.
+- 🌱 Currently learning Spring Boot, Advanced React Patterns, and DevOps fundamentals.
+- ⚡ Fun fact: I love debugging like it’s a puzzle game.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 💼 Technical Skills
 
-**Frontend:**
+<div align="center">
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+| Frontend | Backend | Database | Dev Tools | AI/ML |
+|---------|---------|----------|-----------|--------|
+| ![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react) | ![Node](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js) | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) | ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) |
+| ![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css) | ![Express](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express) | ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) | ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) | ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) | ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) | ![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render) | ![XGBoost](https://img.shields.io/badge/-XGBoost-black?style=flat-square&logo=xgboost) |
 
-**Backend:**
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Languages:**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-
-**AI & Tools:**
-
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white)
-![Claude AI](https://img.shields.io/badge/-ClaudeAI-444?style=flat-square)
-![Replit](https://img.shields.io/badge/-Replit-667881?style=flat-square&logo=replit&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor_AI-blue?style=flat-square)
-![Thunder Client](https://img.shields.io/badge/-ThunderClient-5A5E5A?style=flat-square)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-## 📌 Featured Projects
-
-- **💬 KindleTalk** – Real-time chat app using MERN, Zustand, Socket.IO  
-- **🧠 Heart Disease Prediction System** – AI/ML model with Flask + XGBoost + Real-time interface  
-- **🤖 Promptly AI Bot** – Chatbot powered by Gemini + HuggingFace APIs  
-- **📃 Job Listing App (OJLA)** – MERN app with filters, listing cycle, form validation  
-- **📰 News & Movie Browsers** – Clean UIs powered by APIs with favorites and filters
-
----
-
-## 📬 Connect With Me
+### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/karanmandal7"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/karanmandal77"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:karan.b.mandal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karanmandal7&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=karanmandal7&theme=radical" />
 </p>
 
 ---
 
-<p align="center">✨ Thank you for visiting — more projects & updates coming soon! ✨</p>
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/karanmandal77" target="_blank">
+    <img src="https://img.shields.io/badge/-Karan%20Mandal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/karanmandal77" />
+  </a>
+  <a href="mailto:karan.b.mandal@gmail.com">
+    <img src="https://img.shields.io/badge/-karan.b.mandal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/karanmandal7" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+  </a>
+</p>
+
+---
+
+### 🚀 Quote to Live By
+
+> “Stay hungry, stay foolish.” – *Steve Jobs*
+
+---
+
+### 🧠 More projects coming soon — stay tuned!
+
 
 
 
