@@ -1,13 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/javascript/javascript_128.png" width="60" />
+  <img src="https://lottie.host/8e88b935-0b44-4f4c-b4d7-dc8a01fc4c63/FxzYDrGTNT.gif" width="600" alt="coding animation" />
 </div>
 
 <h1 align="center">Hi there 👋 I'm Karan Mandal</h1>
 <h3 align="center">Full Stack Developer | AI Tech Explorer | Creative Technologist</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/karthiknadig/karthiknadig/main/code.gif" alt="code animation" width="600" />
-</div>
 
 ---
 
@@ -81,6 +77,7 @@
 ### 🧠 Projects Coming Soon...
 
 > “The best way to predict the future is to create it.” – *Peter Drucker*
+
 
 
 
