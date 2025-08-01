@@ -1,33 +1,33 @@
-<div align="center">
-  <img src="https://lottie.host/8e88b935-0b44-4f4c-b4d7-dc8a01fc4c63/FxzYDrGTNT.gif" width="600" alt="coding animation" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Animated coder GIF" />
+</p>
 
 <h1 align="center">Hi there 👋 I'm Karan Mandal</h1>
 <h3 align="center">Full Stack Developer | AI Tech Explorer | Creative Technologist</h3>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 About Me
 
-- 💡 I specialize in full-stack development and AI-powered applications.
-- 🧠 I’ve built ML models, real-time chat apps, REST APIs, and dynamic UI experiences.
-- 🌍 Passionate about building products that **solve real problems** and scale efficiently.
-- 🌱 Currently exploring: Spring Boot, Open Source Contributions, and AI toolchains.
-- 🧩 Fun Fact: I treat bugs like puzzles 🧩 and code like poetry ✍️.
+- 🚀 Full Stack Developer with a passion for building scalable, intuitive, and AI-powered applications.
+- 🤖 Built ML-based heart disease predictor, real-time chat apps, REST APIs, and futuristic UIs.
+- 🔭 Exploring: Spring Boot, open source contributions, and generative AI tooling.
+- 🎯 Goal: To craft solutions that are elegant, fast, and solve real-world challenges.
+- 🧩 Fun fact: I treat bugs like puzzles and design like poetry.
 
 ---
 
 ### 🚀 Tech Stack
 
-#### 🔷 Frontend
+#### 💻 Frontend
 ![React](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### 🔶 Backend
-![Node](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+#### 🛠️ Backend
+![Node.js](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -36,7 +36,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🧠 AI/ML
+#### 🧠 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-BD2626?style=for-the-badge&logo=medium&logoColor=white)
@@ -47,10 +47,10 @@
 ![Claude AI](https://img.shields.io/badge/ClaudeAI-000000?style=for-the-badge&logoColor=white)
 ![Cursor](https://img.shields.io/badge/CursorAI-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-![Blackbox AI](https://img.shields.io/badge/BlackboxAI-000000?style=for-the-badge&logo=code&logoColor=white)
-![Perplexity AI](https://img.shields.io/badge/PerplexityAI-FFFFFF?style=for-the-badge&logo=deepin&logoColor=black)
+![Blackbox](https://img.shields.io/badge/BlackboxAI-000000?style=for-the-badge&logo=code&logoColor=white)
+![Perplexity](https://img.shields.io/badge/PerplexityAI-FFFFFF?style=for-the-badge&logo=deepin&logoColor=black)
 
-#### 🛠️ Dev Tools
+#### ⚙️ Dev Tools
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/ThunderClient-363636?style=for-the-badge&logoColor=cyan)
 ![Render](https://img.shields.io/badge/Render-0099E5?style=for-the-badge&logo=render&logoColor=white)
@@ -74,9 +74,10 @@
 
 ---
 
-### 🧠 Projects Coming Soon...
+### 🧠 More Projects Coming Soon...
 
-> “The best way to predict the future is to create it.” – *Peter Drucker*
+> “Stay hungry, stay foolish.” – *Steve Jobs*
+
 
 
 
